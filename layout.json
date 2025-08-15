@@ -1,0 +1,32 @@
+[
+  {
+    "path": "read_me.txt",
+    "size": 2522,
+    "date": 0,
+    "checksum": "f3632158b56df3c3c4786bfc33c874e9"
+  },
+  {
+    "path": "SimObjects/Airplanes/microsoft-aircraft-bell407/aircraft.cfg",
+    "size": 7056,
+    "date": 0,
+    "checksum": "c9e552baf7c0afe5175cdb7e827f9981"
+  },
+  {
+    "path": "SimObjects/Airplanes/microsoft-aircraft-bell407/cockpit.cfg",
+    "size": 4742,
+    "date": 0,
+    "checksum": "20ed4d6180d9aa3188dd2fff17e82d4a"
+  },
+  {
+    "path": "SimObjects/Airplanes/microsoft-aircraft-bell407/engines.cfg",
+    "size": 16504,
+    "date": 0,
+    "checksum": "9b87c6c3aca886daaa5e01d72452bc91"
+  },
+  {
+    "path": "SimObjects/Airplanes/microsoft-aircraft-bell407/helicopter.cfg",
+    "size": 311,
+    "date": 0,
+    "checksum": "29f56d07e3e31793d0673054b46b5380"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "Bell 407 Flight Model Patch by Chab",
+  "manufacturer": "Bell",
+  "creator": "Julien Chabbey Romandy",
+  "package_version": "1.0.0",
+  "minimum_game_version": "1.35.19",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "Modifications de pilotage : cyclic, collectif, yaw, trim",
+      "OlderHistory": ""
+    }
+  }
+}
